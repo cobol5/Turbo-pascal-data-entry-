@@ -560,7 +560,7 @@ begin
   AktifAlan := 1;
  
   Cikis := False;
- 
+  Textbackground(BLACK);
  
   EkraniHazirla;
  
